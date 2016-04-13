@@ -21,7 +21,7 @@ A Java Project to predict the Ethical Values (Schwartz Values) of a person on Tw
        java -jar /home/xyz/Desktop/tweetfolder      
    ```   
 
-Vola!! You are done now! You could now find a csv file named finaloutput.csv in the repository with User IDs as the first column followed by the predictions for each of the 10 Schwartz Values in the order:
+Vola!! You are done now! You could now find a csv file named finaloutput.csv in the repository with User IDs as the first column followed by the predictions in the form of boolean value as 1 for YES and 0 for NO for each of the 10 Schwartz Values in the order:
   - Achievement
   - Benevolence
   - Conformity
@@ -33,6 +33,6 @@ Vola!! You are done now! You could now find a csv file named finaloutput.csv in 
   - Tradition
   - Universalism
   
-This is a result of a research work on Schwartz Model of Psychology and each step can be justified, so till then wait for the research paper published.
+This is a result of a research work on Schwartz Model of Psychology and each step can be justified, so till then wait for the research paper being published.
 
 A better interactive platform and features are more to come!!
