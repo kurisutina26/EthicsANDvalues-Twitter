@@ -1,5 +1,5 @@
 # EthicsANDvalues-Twitter
-A Java Project to predict the Ethical Values (Schwartz Values) of a person on Twitter.
+A Java Project to predict the Ethical Values (Schwartz Values) of a person on Twitter. ( This is for the research group which is working on this project. More details, would be made available after official publication.)
 
 ## Command Line Use 
 
